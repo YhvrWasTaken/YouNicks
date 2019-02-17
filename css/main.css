@@ -1,0 +1,18 @@
+.hackerthing {
+  width: 100vw;
+  height: auto;
+  color: lime;
+  vertical-align: text-bottom;
+  font-family: monospace;
+  font-size: 25px;
+  margin-top: auto !important;
+}
+
+body, .hackerthing {
+  margin: 0px;
+  background-color: black;
+}
+
+body {
+  height: 100vh;
+}
